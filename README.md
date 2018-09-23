@@ -7,7 +7,9 @@ Agent made with OpenAI using basic heuristics of a point based system to win the
 DQN with Tensorflow added
 #### 9/23/2018
 Policy Interation added
+
 Value Iteration added
+
 
 ![title](image/doomplay.jpg)
 
