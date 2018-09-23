@@ -1,9 +1,13 @@
 # Artificial-Intelligent-Doom-player
 
-DOOM Ai
-Agent made with OpenAI using basic heuristics of a point based system to win the the game. DQN added with Tensorflow
+DOOM RL Agent
+Agent made with OpenAI using basic heuristics of a point based system to win the the game.
+
+#### 7/25/2017
+DQN with Tensorflow added
 #### 9/23/2018
-interation Policy added
+Policy Interation added
+Value Iteration added
 
 ![title](image/doomplay.jpg)
 
